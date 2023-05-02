@@ -31,7 +31,3 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dudzicz&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
-<p align="center">
-Shamelessly stolen from kchojn <a href="https://github.com/kchojn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-</p>
